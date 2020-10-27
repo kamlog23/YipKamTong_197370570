@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "time": [
+        "03:00:00",
+        "11:00:00"
+      ],
+      "name": "13",
+      "windows": [
+        "window 1"
+      ],
+      "type": "soup",
+      "status": "sale",
+      "editable": false,
+      "id": "dba10619-a3fc-40fa-b83c-eb54313b0462"
+    },
+    {
+      "time": [
+        "03:00:00",
+        "11:00:00"
+      ],
+      "name": "134",
+      "windows": [
+        "window 1"
+      ],
+      "type": "soup",
+      "price": 3,
+      "status": "sale",
+      "editable": false,
+      "id": "369c6ddd-29c0-4443-94eb-606226d4293b"
+    }
+  ],
+  "user": [
+    {
+      "user": "aaa",
+      "password": "123",
+      "admin": 0,
+      "id": "b26cc12d-da23-45c8-97ce-b58b57734672"
+    }
+  ]
+}
